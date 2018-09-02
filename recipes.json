@@ -1,10 +1,10 @@
 {
-  "recipecollectionName" : "Fast & Healthy Recipe Collection",
-  "author" : "David Menk",
-  "created" : 2018,
-  "category" : "fast & healthy",
+  "recipecollectionName" : "Fast & Healthy",
+  "homeTown" : "Metro City",
+  "formed" : 2016,
+  "secretBase" : "Super tower",
   "active" : true,
-  "content" : [
+  "members" : [
     {
       "name" : "Molecule Man",
       "age" : 29,
